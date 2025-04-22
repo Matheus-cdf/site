@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+    <head>        
+       
+            <meta charset="UTF-8">
+            <meta name="viewport" content="width=device-width,
+            initial-scale=1.0">
+            <link type="text/css"rel="stylesheet" href="style.css">
+        <title>Jogos indies</title>
+        <link rel="shortcut icon" href="..." type="image/x-icon">
+
+   
+    </head>
+    <body>
+
+            <h1 style="text-align: center;">
+            <p style="color: aquamarine;"> Glitch - murder drones</p>
+            </h1>
+            <img src="img.webp" height="315" width="720">
+            <img src="img2.webp" height="315" width="720">
+       
+        
+        </div>
+            <h1>Glitch Productions é um estúdio de animação indie australiano conhecido por produzir e financiar independentemente séries animadas para a web. A empresa tem sede em Sydney e é responsável por séries populares como Meta Runner, Sunset Paradise, Murder Drones e The Amazing Digital Circus. Eles se orgulham de controlar todo o processo, desde o desenvolvimento até a distribuição, garantindo que suas séries sejam feitas como eles querem. </p>
+        <ul>
+           <li>C++</li>
+           <li>C#</li>
+           <li>JavaScript</li>
+        </ul>
+        <p style="color:crimson; font-size: 30px">Primeiramente, como é o mercado de desenvolvimento de jogos?</p>
+        <h2 style="color:darkgreen; font-size: 14px">A indústria de desenvolvimento de jogos está em constante crescimento, sendo totalmente impulsionada pelo progresso da tecnologia e pela crescente demanda por entretenimento.
+
+            O mercado abrange a criação, produção, distribuição e comercialização de jogos eletrônicos para diversas plataformas, como:</h2>
+        <ul>
+            <li>Consoles</li>
+            <li>Computadores</li>
+            <li>Dispositivos móveis </li>
+            <li>E tecnologias emergentes como realidade virtual e aumentada.</li>
+        </ul>
+        <h3 style="color:darkred; font-size: 14px">Com um faturamento global que superou os US$ 180 bilhões em 2022, a indústria de jogos é uma das mais lucrativas do setor de entretenimento. Esse crescimento é impulsionado por avanços tecnológicos, pela popularização dos jogos móveis e pela crescente acessibilidade de jogos digitais.
+           
+            Além disso, com a ascensão dos jogos mobile e o surgimento da realidade virtual e aumentada, as perspectivas para a indústria de desenvolvimento de jogos são ainda mais promissoras.
+           
+            Ou seja, o mercado de desenvolvimento de jogos é vasto e diversificado, repleto de oportunidades para inovação e crescimento!
+           
+            </h3>
+           
+    </body>
+
+
+</html>
