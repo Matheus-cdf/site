@@ -49,3 +49,15 @@
 
 
 </html>
+
+
+.titulo {
+ background-color: black;
+ color: white;
+
+}
+
+body {
+
+    background-color: beige;
+}
