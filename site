@@ -14,7 +14,7 @@
     <body>
 
             <h1 style="text-align: center;">
-            <p style="color: aquamarine;"> Glitch - murder drones</p>
+            <p class="titulo"> Glitch </p>
             </h1>
             <img src="img.webp" height="315" width="720">
             <img src="img2.webp" height="315" width="720">
