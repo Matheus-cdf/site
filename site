@@ -6,7 +6,7 @@
             <meta name="viewport" content="width=device-width,
             initial-scale=1.0">
             <link type="text/css"rel="stylesheet" href="style.css">
-        <title>Jogos indies</title>
+        <title>Glitch productions</title>
         <link rel="shortcut icon" href="..." type="image/x-icon">
 
    
@@ -14,50 +14,90 @@
     <body>
 
             <h1 style="text-align: center;">
-            <p class="titulo"> Glitch </p>
+            <p class="titulo"> Glitch Productions </p>
             </h1>
             <img src="img.webp" height="315" width="720">
             <img src="img2.webp" height="315" width="720">
        
         
-        </div>
-            <h1>Glitch Productions é um estúdio de animação indie australiano conhecido por produzir e financiar independentemente séries animadas para a web. A empresa tem sede em Sydney e é responsável por séries populares como Meta Runner, Sunset Paradise, Murder Drones e The Amazing Digital Circus. Eles se orgulham de controlar todo o processo, desde o desenvolvimento até a distribuição, garantindo que suas séries sejam feitas como eles querem. </p>
+            <h1> <p >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Glitch Productions é um estúdio de animação indie australiano conhecido por produzir e financiar independentemente séries animadas para a web. A empresa tem sede em Sydney e é responsável por séries populares como Meta Runner, Sunset Paradise, Murder Drones e The Amazing Digital Circus. Eles se orgulham de controlar todo o processo, desde o desenvolvimento até a distribuição, garantindo que suas séries sejam feitas como eles querem. A empresa é reconhecida por seu trabalho em animação independente e tem um forte foco em conteúdo que atrai jovens adultos e adolescentes.  </p>
+            </h1>
+
+            <h1 style="text-align: center;">
+             <p class="desenvolvimento"> Características </p>
+             </h1>
+
+
+        <div>
+            <h2>
         <ul>
-           <li>C++</li>
-           <li>C#</li>
-           <li>JavaScript</li>
-        </ul>
-        <p style="color:crimson; font-size: 30px">Primeiramente, como é o mercado de desenvolvimento de jogos?</p>
-        <h2 style="color:darkgreen; font-size: 14px">A indústria de desenvolvimento de jogos está em constante crescimento, sendo totalmente impulsionada pelo progresso da tecnologia e pela crescente demanda por entretenimento.
+           <li>Independência:
+Glitch Productions é uma empresa independente, o que lhes permite ter mais controle sobre a produção e o conteúdo de suas séries.</li>
+           </ul>
+           <ul>
+           <li> de Distribuição:
+Suas séries são principalmente distribuídas no YouTube, onde possuem uma base de fãs significativa.</li>
+</ul>
+          <ul>
+           <li>Diversidade de Conteúdo:
+A empresa produz uma variedade de séries, incluindo ficção científica, comédia, suspense e ação, abrangendo diferentes interesses.</li>
+          </ul>
+          <ul>
+           <li>Foco em Jovens Adultos:
+Muitos dos seus trabalhos são direcionados para o público jovem, com temas e personagens que ressoam com esse público.</li>
+          </ul>
+          <ul>
+           <li>Recursos Internos:
+A empresa tem um grande número de artistas, escritores e produtores trabalhando internamente, o que lhes permite controlar todo o processo de produção, desde a pré-produção até a pós-produção, marketing e gestão.</li>
+          </ul>
+          <ul>
+           <li> de Liderança:
+A Glitch Productions é liderada por Kevin Lerdwichagul (CEO, Co-fundador), Luke Lerdwichagul (CCO, Co-fundador, diretor), e Jasmine Yang (Head Writer, General Manager).</li>
+          </ul>
+          <ul>
+           <li>Fundada em Sidney:
+O estúdio está localizado em Sidney, Austrália, e tem uma forte presença online. </li>
+          </ul>
 
-            O mercado abrange a criação, produção, distribuição e comercialização de jogos eletrônicos para diversas plataformas, como:</h2>
-        <ul>
-            <li>Consoles</li>
-            <li>Computadores</li>
-            <li>Dispositivos móveis </li>
-            <li>E tecnologias emergentes como realidade virtual e aumentada.</li>
-        </ul>
-        <h3 style="color:darkred; font-size: 14px">Com um faturamento global que superou os US$ 180 bilhões em 2022, a indústria de jogos é uma das mais lucrativas do setor de entretenimento. Esse crescimento é impulsionado por avanços tecnológicos, pela popularização dos jogos móveis e pela crescente acessibilidade de jogos digitais.
+            </h2>
+           </div>
            
-            Além disso, com a ascensão dos jogos mobile e o surgimento da realidade virtual e aumentada, as perspectivas para a indústria de desenvolvimento de jogos são ainda mais promissoras.
-           
-            Ou seja, o mercado de desenvolvimento de jogos é vasto e diversificado, repleto de oportunidades para inovação e crescimento!
-           
-            </h3>
-           
-    </body>
+           <h1 style="text-align: center;">
+            <p class="Obras"> Obras </p>
+            </h1>
 
+            <div>
+                <h3>
+            <ul>
+               <li>SMG4: Uma série animada de comédia de curta metragem que apresenta personagens de jogos da Nintendo.</li>
+               </ul>
+               <ul>
+               <li> Meta Runner: Uma série animada de ficção científica que se passa em um futuro distópico.</li>
+    </ul>
+              <ul>
+               <li>Sunset Paradise: Uma série animada de aventura que segue um grupo de amigos em uma viagem para a ilha de Sunset Paradise.</li>
+              </ul>
+              <ul>
+               <li>Murder Drones: Uma série animada de terror que segue um grupo de drones assassinos.</li>
+              </ul>
+              <ul>
+               <li>The Amazing Digital Circus: Uma série animada de fantasia que se passa em um mundo virtual estranho e perigoso.</li>
+              </ul>
+              <ul>
+               <li> The Gaslight District: Uma série animada de terror que se passa em uma cidade do século XIX.</li>
+              </ul>
+              <ul>
+               <li>Gooseworx: Um canal no YouTube que produz animações e vídeos de jogos. </li>
+              </ul>
+    
+                </h3>
+               </div>
 
-</html>
+               <h1 style="text-align: center;">
+                <p class="videos"> Videos </p>
+                </h1>
+<div>
+               <iframe width="560" height="315" src="https://www.youtube.com/embed/mImFz8mkaHo?si=4XMTir3cg2eoP25_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-
-.titulo {
- background-color: black;
- color: white;
-
-}
-
-body {
-
-    background-color: beige;
-}
+               <iframe width="560" height="315" src="https://www.youtube.com/embed/HwAPLk_sQ3w?si=4tcUoT6OoCODFS8I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
