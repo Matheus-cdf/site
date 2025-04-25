@@ -1,0 +1,34 @@
+.titulo {
+
+    background-color: black;
+    color: white;
+}
+
+body {
+
+    background-color:rgb(158, 255, 255);
+
+}
+.desenvolvimento {
+
+    background-color: black;
+    color: white;
+}
+.Obras {
+
+    background-color: black;
+    color: white;
+}
+.videos {
+
+    background-color: black;
+    color: white;
+}
+.menu {
+    font-size: x-large;
+    background-color:black;
+    color: blue;
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+}
